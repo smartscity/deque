@@ -31,7 +31,7 @@ public class PerformanceTest {
 
   DequeLinked<Integer> list ;
 
-  int testdata = 100000000;
+  int testdata = 10000000;
   static long DequeLinkedCast  = 0; //diy        双向链表倒置花费时间
   static long LinkedListCast   = 0; //LinkedList 双向链表倒置花费时间
 
